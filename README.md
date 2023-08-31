@@ -1,4 +1,4 @@
-[![Publish to NPM Registry](https://github.com/emrekovanci/Package_Unity3D_ChimpEditor/actions/workflows/publish_npm.yml/badge.svg)](https://github.com/emrekovanci/Package_Unity3D_ChimpEditor/actions/workflows/publish_npm.yml)
+[![Publish to NPM Registry](https://github.com/kovanci/Package_Unity3D_ChimpEditor/actions/workflows/publish_npm.yml/badge.svg)](https://github.com/kovanci/Package_Unity3D_ChimpEditor/actions/workflows/publish_npm.yml)
 
 ### Chimp Editor
 
