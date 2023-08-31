@@ -1,0 +1,19 @@
+{
+  "name": "com.chimp.editor",
+  "version": "1.0.0",
+  "displayName": "Chimp Editor",
+  "description": "Unity3D Editor Utilities",
+  "unity": "2022.3",
+  "unityRelease": "8f1",
+  "keywords": [
+    "editor",
+    "utility",
+    "validation"
+  ],
+  "author": {
+    "name": "Emre Kovanci",
+    "email": "kovanciemre@gmail.com",
+    "url": "https://emrekovanci.github.io"
+  },
+  "repository": "github:emrekovanci/Package_Unity3D_ChimpEditor"
+}
