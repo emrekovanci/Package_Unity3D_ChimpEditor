@@ -1,6 +1,6 @@
 {
   "name": "com.kovanci.chimpeditor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Chimp Editor",
   "description": "Unity3D Editor Utilities",
   "unity": "2022.3",
@@ -8,7 +8,6 @@
   "keywords": [
     "editor",
     "utility",
-    "validation"
   ],
   "author": {
     "name": "Emre Kovanci",
