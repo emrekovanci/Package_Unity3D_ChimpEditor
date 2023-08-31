@@ -1,6 +1,6 @@
 {
   "name": "com.kovanci.chimpeditor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Chimp Editor",
   "description": "Unity3D Editor Utilities",
   "unity": "2022.3",
@@ -14,5 +14,5 @@
     "email": "kovanciemre@gmail.com",
     "url": "https://emrekovanci.github.io"
   },
-  "repository": "github:emrekovanci/Package_Unity3D_ChimpEditor"
+  "repository": "github:kovanci/Package_Unity3D_ChimpEditor"
 }
