@@ -1,6 +1,6 @@
 {
   "name": "com.kovanci.chimpeditor",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "displayName": "Chimp Editor",
   "description": "Unity3D Editor Utilities",
   "unity": "2022.3",
